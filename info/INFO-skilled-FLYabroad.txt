@@ -1,0 +1,14 @@
+FLYabroad 技术移民信息表格用于收据客户信息，方便评估和材料处理。
+
+本信息表格使用 office 2007 格式： xlsx 。
+您需要安装微软 office 2007及以上版本，如果您使用的是 office 2003 版本您可以按照格式转换包： http://www.microsoft.com/downloads/zh-cn/details.aspx?familyid=941b3470-3ae9-4aee-8f43-c6bb74cd1466
+
+当然您也可以使用 open office / WPS office 2012 个人版等打开该文件。
+
+如果您实在无法打开该格式文档，您可以发邮件到 zixun@flyabroadvisa.com 索取其他格式。
+
+信息表格填写完成后您直接通过email发送到 zixun@flyabroadvisa.com 即可。
+
+其他需要准备的资料见： http://kit.flyabroadvisa.com/info/Checklist-Skilled-FLYabroad.zip 
+
+详见： http://blog.flyabroadvisa.com/archives/464
