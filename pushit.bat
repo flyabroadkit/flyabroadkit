@@ -1,3 +1,4 @@
+git pull
 git add .
-git commit -m "fly pinggu"
+git commit -m "fly kit"
 git push
