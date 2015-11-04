@@ -13,3 +13,4 @@ git add . && \
 git add -u && \
 git commit -m "$desc" && \
 git push -u origin master
+git push
